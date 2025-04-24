@@ -1,0 +1,8 @@
+{
+  "name": "contactformserver",
+  "version": "1.0.0",
+  "type": "module",  
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  }
+}
